@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef615d01-66e9-4750-b526-5628d136b42c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ef615d01-66e9-4750-b526-5628d136b42c" name="Changes" comment="Update workspace.xml and .gitignore configurations&#10;&#10;This commit is related to updates in the .idea/workspace.xml configuration file and .gitignore. The workspace.xml has new options set in &quot;ChangeListManager&quot; and &quot;FileTemplateManagerImpl&quot; components, and also includes a new component &quot;TypeScriptGeneratedFilesManager&quot;. This enables the tracking of changes in more elements and improves the project administration. Meanwhile, in the .gitignore file, .idea/sonarlint/ has been added to the list of ignored files which further improves the project's version control system by preventing unnecessary files from being tracked.">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dersbian/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dersbian/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/dersbian/Modello/Enigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dersbian/Modello/Enigma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +29,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GIUSEPPE BIANCONI &lt;gbianconi3@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -44,6 +55,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -64,11 +76,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701442524766</updated>
-      <workItem from="1701442525479" duration="651000" />
+      <workItem from="1701442525479" duration="2438000" />
     </task>
+    <task id="LOCAL-00001" summary="Update workspace.xml and .gitignore configurations&#10;&#10;This commit is related to updates in the .idea/workspace.xml configuration file and .gitignore. The workspace.xml has new options set in &quot;ChangeListManager&quot; and &quot;FileTemplateManagerImpl&quot; components, and also includes a new component &quot;TypeScriptGeneratedFilesManager&quot;. This enables the tracking of changes in more elements and improves the project administration. Meanwhile, in the .gitignore file, .idea/sonarlint/ has been added to the list of ignored files which further improves the project's version control system by preventing unnecessary files from being tracked.">
+      <option name="closed" value="true" />
+      <created>1701443959722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701443959722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Update workspace.xml and .gitignore configurations&#10;&#10;This commit is related to updates in the .idea/workspace.xml configuration file and .gitignore. The workspace.xml has new options set in &quot;ChangeListManager&quot; and &quot;FileTemplateManagerImpl&quot; components, and also includes a new component &quot;TypeScriptGeneratedFilesManager&quot;. This enables the tracking of changes in more elements and improves the project administration. Meanwhile, in the .gitignore file, .idea/sonarlint/ has been added to the list of ignored files which further improves the project's version control system by preventing unnecessary files from being tracked." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml and .gitignore configurations&#10;&#10;This commit is related to updates in the .idea/workspace.xml configuration file and .gitignore. The workspace.xml has new options set in &quot;ChangeListManager&quot; and &quot;FileTemplateManagerImpl&quot; components, and also includes a new component &quot;TypeScriptGeneratedFilesManager&quot;. This enables the tracking of changes in more elements and improves the project administration. Meanwhile, in the .gitignore file, .idea/sonarlint/ has been added to the list of ignored files which further improves the project's version control system by preventing unnecessary files from being tracked." />
   </component>
 </project>
